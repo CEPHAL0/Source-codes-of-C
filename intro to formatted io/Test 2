@@ -1,0 +1,16 @@
+<html> 
+    <head> This is heading </head>
+    <body>
+        <ol type=numbers>
+            <li> Nepal 
+            <li> India 
+            <li> China 
+        </ol>
+        <ul type=square> 
+            <li> Kathmandu
+            <li> Biratnagar
+            <li> Birgunj
+            <li> Chitwan 
+        </ul>
+    </body>
+</html>
